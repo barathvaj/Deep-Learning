@@ -60,7 +60,7 @@ class Sequential:
         
     """Predicting outcome mainly for validation or test set"""
     def predict(self, X, y):
-        y_pred = self._forward(X)  
+        y_pred = self._forward(X,False)  
         loss = self.loss(y, y_pred)
         accuracy = self.loss.auc(y, y_pred)
         return loss, accuracy,y_pred
