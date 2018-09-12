@@ -8,7 +8,7 @@ Objective here is to explore the concepts of deep learning and implementing it f
 **About** : In this part of this exercise, we will create a Layer and Sequential API for building neural network at ease. We will also implement SGD with momentum and popular activation functions
 
 
-**Link of Work:**   [Commit](https://github.com/barathvaj/Deep-Learning/blob/master/Build%20Layer%20Based%20API%20-%20Neural%20Network%20with%20SGD.ipynb)
+**Link of Work:**   [Code](https://github.com/barathvaj/Deep-Learning/blob/master/Build%20Layer%20Based%20API%20-%20Neural%20Network%20with%20SGD.ipynb)
 
 
 ## Session 2 - Types of Optimizers and its implementation
