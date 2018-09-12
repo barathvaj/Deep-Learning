@@ -24,3 +24,9 @@ Objective here is to explore the concepts of deep learning and implementing it f
 
 **Link of Work:** [Code](https://github.com/barathvaj/Deep-Learning/blob/master/Dropout.ipynb)
 
+
+## Session 3 -  DropOut 
+
+**About** : In this session, we will extend our layer API to support batch normalization.
+
+**Link of Work:** [Code](https://github.com/barathvaj/Deep-Learning/blob/master/BatchNormalization.ipynb)
