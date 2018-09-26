@@ -30,3 +30,10 @@ Objective here is to explore the concepts of deep learning and implementing it f
 **About** : In this session, we will extend our layer API to support batch normalization.
 
 **Link of Work:** [Code](https://github.com/barathvaj/Deep-Learning/blob/master/BatchNormalization.ipynb)
+
+## Session 4 -  Language Model Preprocessor
+
+**About** : In this session, we will create a wrapper which accepts the input as a csv and return back numercalized data which would be used for building a language model in upcoming sessions.
+
+**Link of Work:** [Code](https://github.com/barathvaj/Deep-Learning/blob/master/NLP%20-%20Preprocessor%20For%20Language%20Model.ipynb)
+
