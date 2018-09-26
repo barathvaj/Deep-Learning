@@ -31,7 +31,7 @@ Objective here is to explore the concepts of deep learning and implementing it f
 
 **Link of Work:** [Code](https://github.com/barathvaj/Deep-Learning/blob/master/BatchNormalization.ipynb)
 
-## Session 4 -  Language Model Preprocessor
+## Session 5 -  Language Model Preprocessor
 
 **About** : In this session, we will create a wrapper which accepts the input as a csv and return back numercalized data which would be used for building a language model in upcoming sessions.
 
